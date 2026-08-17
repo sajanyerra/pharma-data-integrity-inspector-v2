@@ -47,3 +47,9 @@ htmlcov/
 
 # Build
 build/
+
+# Local sprint-planning / Claude Code session files (not part of the app)
+/PLAN.md
+/.agents/
+/.claude/
+/skills-lock.json
